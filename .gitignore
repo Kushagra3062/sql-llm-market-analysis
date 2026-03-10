@@ -1,0 +1,10 @@
+# Ignore vector database files
+*.sqlite3
+sql_llm_reasoning_engine/rag/chroma_db/
+
+# Ignore python caches
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env

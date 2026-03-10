@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langgraph
+sqlalchemy
+psycopg2-binary
+chromadb
+supabase
+python-dotenv
+pydantic
+langchain-community
+langchain-groq
+httpx
+firebase-admin
