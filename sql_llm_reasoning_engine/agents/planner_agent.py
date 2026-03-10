@@ -217,6 +217,7 @@ def call_planner(state: PlannerState):
         state["error"] = "" 
     except Exception as e:
         state["error"] = f"JSON Parsing Failed: {str(e)}"
+        state["plan"] = {}
         
     
     return state
