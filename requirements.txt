@@ -13,3 +13,5 @@ langchain-groq
 httpx
 firebase-admin
 yfinance
+langchain-huggingface
+langchain-text-splitters
