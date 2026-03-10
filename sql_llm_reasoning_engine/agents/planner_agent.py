@@ -122,6 +122,7 @@ def print_schema(schema):
 
 from langgraph.graph import StateGraph, END
 from utilis.get_llm import get_llm
+from agents.schema_static import schema_static
 # No top-level LLM initialization
 
 
