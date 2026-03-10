@@ -19,10 +19,10 @@ export function Sidebar({ onQuerySelect }) {
     };
 
     const QUERIES = [
-        "What was Apple's net income in 2023?",
-        "Show me the revenue growth for Microsoft over the last 3 years.",
-        "Which companies have a debt-to-equity ratio less than 0.5?",
-        "Show me the closing prices for Nvidia in the last 30 days."
+        "Find the top 5 days where Tesla (TSLA) had the highest trading volume, and show me the closing price for those days",
+        "Show me all companies in the Technology sector along with their headquarters location.",
+        "Can you find recent news about Tesla's latest quarterly earnings call?",
+        "What is the general market sentiment around the Federal Reserve lowering interest rates this week?"
     ];
 
     return (
