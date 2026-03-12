@@ -8,3 +8,13 @@ __pycache__/
 
 # Ignore environment files
 .env
+*.env
+
+# Ignore secrets/keys
+*.json
+!package.json
+!package-lock.json
+
+# Ignore node_modules
+node_modules/
+**/node_modules/

@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "lucide-react": "^0.575.0",
-    "recharts": "^3.7.0"
+    "lucide-react": "^0.575.0"
   }
 }
